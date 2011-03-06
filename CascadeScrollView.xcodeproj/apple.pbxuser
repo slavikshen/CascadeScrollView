@@ -1,0 +1,134 @@
+// !$*UTF8*$!
+{
+	18C18ECD13233C2900AB9B0C /* CascadeScrollView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CascadeScrollView;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	18C18EDC13233C2F00AB9B0C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	18C18EDD13233C2F00AB9B0C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	18C18EE013233C7700AB9B0C /* UICascadeScrollView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 1765}}";
+			sepNavSelRange = "{307, 0}";
+			sepNavVisRange = "{0, 313}";
+		};
+	};
+	18C18EE113233C7700AB9B0C /* UICascadeScrollView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 1765}}";
+			sepNavSelRange = "{259, 0}";
+			sepNavVisRange = "{0, 807}";
+		};
+	};
+	1D3623240D0F684500981E51 /* CascadeScrollViewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 1765}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 532}";
+		};
+	};
+	1D3623250D0F684500981E51 /* CascadeScrollViewAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1765}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2102}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* CascadeScrollView */ = {
+		activeExec = 0;
+		executables = (
+			18C18ECD13233C2900AB9B0C /* CascadeScrollView */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* CascadeScrollViewViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 1765}}";
+			sepNavSelRange = "{321, 0}";
+			sepNavVisRange = "{0, 741}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* CascadeScrollViewViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {922, 1765}}";
+			sepNavSelRange = "{1805, 0}";
+			sepNavVisRange = "{0, 2875}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 18C18ECD13233C2900AB9B0C /* CascadeScrollView */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* CascadeScrollView */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* CascadeScrollView */,
+		);
+		codeSenseManager = 18C18EDD13233C2F00AB9B0C /* Code sense */;
+		executables = (
+			18C18ECD13233C2900AB9B0C /* CascadeScrollView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					418,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321076265;
+			PBXWorkspaceStateSaveDate = 321076265;
+		};
+		sourceControlManager = 18C18EDC13233C2F00AB9B0C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+}

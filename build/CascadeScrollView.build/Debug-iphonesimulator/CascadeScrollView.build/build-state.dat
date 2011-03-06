@@ -1,0 +1,336 @@
+TCascadeScrollView
+v7
+r0
+t321079943.604825
+cCheck dependencies
+cProcessInfoPlistFile /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/Info.plist CascadeScrollView-Info.plist
+cCompileXIB /Users/apple/Documents/TestApp/CascadeScrollView/MainWindow.xib
+cCompileXIB /Users/apple/Documents/TestApp/CascadeScrollView/CascadeScrollViewViewController.xib
+cCopyPlistFile /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/names.plist names.plist
+cProcessPCH /var/folders/z+/z+OkvupKGOG2hduLtxDDbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CascadeScrollView_Prefix-dnuqzqrdhrzmzyarmnaydedlyrcc/CascadeScrollView_Prefix.pch.gch CascadeScrollView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/main.o /Users/apple/Documents/TestApp/CascadeScrollView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/CascadeScrollViewAppDelegate.o /Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/CascadeScrollViewViewController.o /Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/UICascadeScrollView.o /Users/apple/Documents/TestApp/CascadeScrollView/Classes/UICascadeScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/UIViewDebugTool.o /Users/apple/Documents/TestApp/CascadeScrollView/Classes/UIViewDebugTool.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/CascadeScrollView normal i386
+cGenerateDSYMFile /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app.dSYM /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/CascadeScrollView
+cTouch /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D3D5EEE0000000000000110
+t1295867630
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D24066D0000000000298910
+t1294206573
+s2722064
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D2406C1000000000029DA10
+t1294206657
+s2742800
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D2406B40000000000001466
+t1294206644
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D2414D90000000000000AA1
+t1294210265
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D24154D00000000007651B0
+t1294210381
+s7754160
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/CascadeScrollViewViewController.xib
+c000000004D7313050000000000007222
+t1299387141
+s29218
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/CascadeScrollView_Prefix.pch
+c000000004D7304A900000000000000CB
+t1299383465
+s203
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewAppDelegate.h
+c000000004D7304A90000000000000214
+t1299383465
+s532
+i<UIKit/UIKit.h>
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewAppDelegate.m
+c000000004D7304A90000000000000836
+t1299383465
+s2102
+i"CascadeScrollViewAppDelegate.h"
+i"CascadeScrollViewViewController.h"
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewViewController.h
+c000000004D7311BE0000000000000329
+t1299386814
+s809
+i<UIKit/UIKit.h>
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewViewController.m
+c000000004D7312F50000000000001078
+t1299387125
+s4216
+i"CascadeScrollViewViewController.h"
+i"UICascadeScrollView.h"
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/Classes/UICascadeScrollView.h
+c000000004D730CDC0000000000000139
+t1299385564
+s313
+i<UIKit/UIKit.h>
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/Classes/UICascadeScrollView.m
+c000000004D730EDB0000000000000327
+t1299386075
+s807
+i"UICascadeScrollView.h"
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/Classes/UIViewDebugTool.h
+c000000004D6CE7C80000000000000130
+t1298982856
+s304
+i<UIKit/UIKit.h>
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/Classes/UIViewDebugTool.m
+c000000004D6CE7C80000000000000213
+t1298982856
+s531
+i"UIViewDebugTool.h"
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/MainWindow.xib
+c000000004D7304A90000000000004D6D
+t1299383465
+s19821
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/CascadeScrollView.LinkFileList
+c000000004D730EDB0000000000000345
+t1299386075
+s837
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/CascadeScrollViewAppDelegate.o
+t1299387117
+s51192
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/CascadeScrollViewViewController.o
+t1299387126
+s61416
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/UICascadeScrollView.o
+t1299386078
+s40148
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/UIViewDebugTool.o
+t1299386078
+s3972
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/main.o
+t1299386077
+s6332
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app
+t1299387143
+s272
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app.dSYM
+t1299387126
+s102
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/CascadeScrollView
+t1299387126
+s31872
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/CascadeScrollViewViewController.nib
+t1299387143
+s3487
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/Info.plist
+t1299386075
+s844
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/MainWindow.nib
+t1299386075
+s1702
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/PkgInfo
+t1299386075
+s8
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/names.plist
+t1299387117
+s74
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/main.m
+c000000004D7304A9000000000000016C
+t1299383465
+s364
+i<UIKit/UIKit.h>
+
+N/Users/apple/Documents/TestApp/CascadeScrollView/names.plist
+c000000004D7312EB000000000000011E
+t1299387115
+s286
+
+N/var/folders/z+/z+OkvupKGOG2hduLtxDDbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CascadeScrollView_Prefix-dnuqzqrdhrzmzyarmnaydedlyrcc/CascadeScrollView_Prefix.pch.gch
+t1299386077
+s15809968
+
+NCascadeScrollView-Info.plist
+c000000004D7304A900000000000004D6
+t1299383465
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321079943#321079943#0(0"0(0#1#0"8645165728#0"0#
+
+CCompileC build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/CascadeScrollViewAppDelegate.o /Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321079917.424944
+e321079917.619739
+r1
+xCompileC
+xbuild/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/CascadeScrollViewAppDelegate.o
+x/Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewAppDelegate.m321079917#321079917#0(0"0(0#0#87"/Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewAppDelegate.m8635759872#2280"    cd /Users/apple/Documents/TestApp/CascadeScrollView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-generated-files.hmap -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-own-target-headers.hmap -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-all-target-headers.hmap -iquote /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-project-headers.hmap -F/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator -I/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/include -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/DerivedSources/i386 -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/DerivedSources -include /var/folders/z+/z+OkvupKGOG2hduLtxDDbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CascadeScrollView_Prefix-dnuqzqrdhrzmzyarmnaydedlyrcc/CascadeScrollView_Prefix.pch -c /Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewAppDelegate.m -o /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/CascadeScrollViewAppDelegate.o0#
+
+CCompileC build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/CascadeScrollViewViewController.o /Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321079925.933463
+e321079926.124024
+r1
+xCompileC
+xbuild/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/CascadeScrollViewViewController.o
+x/Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@98"Compile /Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewViewController.m321079925#321079926#0(0"0(0#0#90"/Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewViewController.m8644149152#2286"    cd /Users/apple/Documents/TestApp/CascadeScrollView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-generated-files.hmap -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-own-target-headers.hmap -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-all-target-headers.hmap -iquote /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-project-headers.hmap -F/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator -I/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/include -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/DerivedSources/i386 -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/DerivedSources -include /var/folders/z+/z+OkvupKGOG2hduLtxDDbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CascadeScrollView_Prefix-dnuqzqrdhrzmzyarmnaydedlyrcc/CascadeScrollView_Prefix.pch -c /Users/apple/Documents/TestApp/CascadeScrollView/Classes/CascadeScrollViewViewController.m -o /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/CascadeScrollViewViewController.o0#
+
+CCompileC build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/UICascadeScrollView.o /Users/apple/Documents/TestApp/CascadeScrollView/Classes/UICascadeScrollView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321078878.051483
+e321078878.238860
+r1
+xCompileC
+xbuild/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/UICascadeScrollView.o
+x/Users/apple/Documents/TestApp/CascadeScrollView/Classes/UICascadeScrollView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/apple/Documents/TestApp/CascadeScrollView/Classes/UICascadeScrollView.m321078878#321078878#0(0"0(0#0#78"/Users/apple/Documents/TestApp/CascadeScrollView/Classes/UICascadeScrollView.m8636137728#2262"    cd /Users/apple/Documents/TestApp/CascadeScrollView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-generated-files.hmap -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-own-target-headers.hmap -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-all-target-headers.hmap -iquote /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-project-headers.hmap -F/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator -I/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/include -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/DerivedSources/i386 -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/DerivedSources -include /var/folders/z+/z+OkvupKGOG2hduLtxDDbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CascadeScrollView_Prefix-dnuqzqrdhrzmzyarmnaydedlyrcc/CascadeScrollView_Prefix.pch -c /Users/apple/Documents/TestApp/CascadeScrollView/Classes/UICascadeScrollView.m -o /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/UICascadeScrollView.o0#
+
+CCompileC build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/UIViewDebugTool.o /Users/apple/Documents/TestApp/CascadeScrollView/Classes/UIViewDebugTool.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321078878.096928
+e321078878.246935
+r1
+xCompileC
+xbuild/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/UIViewDebugTool.o
+x/Users/apple/Documents/TestApp/CascadeScrollView/Classes/UIViewDebugTool.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/apple/Documents/TestApp/CascadeScrollView/Classes/UIViewDebugTool.m321078878#321078878#0(0"0(0#0#74"/Users/apple/Documents/TestApp/CascadeScrollView/Classes/UIViewDebugTool.m8653308448#2254"    cd /Users/apple/Documents/TestApp/CascadeScrollView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-generated-files.hmap -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-own-target-headers.hmap -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-all-target-headers.hmap -iquote /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-project-headers.hmap -F/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator -I/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/include -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/DerivedSources/i386 -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/DerivedSources -include /var/folders/z+/z+OkvupKGOG2hduLtxDDbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CascadeScrollView_Prefix-dnuqzqrdhrzmzyarmnaydedlyrcc/CascadeScrollView_Prefix.pch -c /Users/apple/Documents/TestApp/CascadeScrollView/Classes/UIViewDebugTool.m -o /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/UIViewDebugTool.o0#
+
+CCompileC build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/main.o /Users/apple/Documents/TestApp/CascadeScrollView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321078877.730993
+e321078877.963600
+r1
+xCompileC
+xbuild/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/main.o
+x/Users/apple/Documents/TestApp/CascadeScrollView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/apple/Documents/TestApp/CascadeScrollView/main.m321078877#321078878#0(0"0(0#0#55"/Users/apple/Documents/TestApp/CascadeScrollView/main.m8637575456#2224"    cd /Users/apple/Documents/TestApp/CascadeScrollView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-generated-files.hmap -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-own-target-headers.hmap -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-all-target-headers.hmap -iquote /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-project-headers.hmap -F/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator -I/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/include -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/DerivedSources/i386 -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/DerivedSources -include /var/folders/z+/z+OkvupKGOG2hduLtxDDbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CascadeScrollView_Prefix-dnuqzqrdhrzmzyarmnaydedlyrcc/CascadeScrollView_Prefix.pch -c /Users/apple/Documents/TestApp/CascadeScrollView/main.m -o /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/apple/Documents/TestApp/CascadeScrollView/CascadeScrollViewViewController.xib
+s321079943.179808
+e321079943.601045
+r1
+xCompileXIB
+x/Users/apple/Documents/TestApp/CascadeScrollView/CascadeScrollViewViewController.xib
+lSLF07#2@46"CompileXIB CascadeScrollViewViewController.xib321079943#321079943#0(0"0(0#0#84"/Users/apple/Documents/TestApp/CascadeScrollView/CascadeScrollViewViewController.xib8645869376#652"    cd /Users/apple/Documents/TestApp/CascadeScrollView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/CascadeScrollViewViewController.nib /Users/apple/Documents/TestApp/CascadeScrollView/CascadeScrollViewViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCompileXIB /Users/apple/Documents/TestApp/CascadeScrollView/MainWindow.xib
+s321078875.120472
+e321078875.640969
+r1
+xCompileXIB
+x/Users/apple/Documents/TestApp/CascadeScrollView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib321078875#321078875#0(0"0(0#0#63"/Users/apple/Documents/TestApp/CascadeScrollView/MainWindow.xib8637350016#610"    cd /Users/apple/Documents/TestApp/CascadeScrollView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/MainWindow.nib /Users/apple/Documents/TestApp/CascadeScrollView/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk0#
+
+CCopyPlistFile /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/names.plist names.plist
+s321079915.943309
+e321079917.135493
+r1
+xCopyPlistFile
+x/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/names.plist
+xnames.plist
+lSLF07#2@16"Copy names.plist321079915#321079917#0(0"0(0#0#60"/Users/apple/Documents/TestApp/CascadeScrollView/names.plist8642330976#416"    cd /Users/apple/Documents/TestApp/CascadeScrollView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 names.plist --outdir /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app0#
+
+CGenerateDSYMFile /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app.dSYM /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/CascadeScrollView
+s321079926.154546
+e321079926.176083
+r1
+xGenerateDSYMFile
+x/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app.dSYM
+x/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/CascadeScrollView
+lSLF07#2@139"GenerateDSYMFile build/Debug-iphonesimulator/CascadeScrollView.app.dSYM build/Debug-iphonesimulator/CascadeScrollView.app/CascadeScrollView321079926#321079926#0(0"0(0#0#116"/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/CascadeScrollView8648967936#443"    cd /Users/apple/Documents/TestApp/CascadeScrollView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/CascadeScrollView -o /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app.dSYM0#
+
+CLd /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/CascadeScrollView normal i386
+s321079926.124127
+e321079926.154424
+r1
+xLd
+x/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/CascadeScrollView
+xnormal
+xi386
+lSLF07#2@121"Link /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/CascadeScrollView321079926#321079926#0(0"0(0#0#0"8649386720#1000"    cd /Users/apple/Documents/TestApp/CascadeScrollView    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -L/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator -F/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator -filelist /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/Objects-normal/i386/CascadeScrollView.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/CascadeScrollView0#
+
+CProcessInfoPlistFile /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/Info.plist CascadeScrollView-Info.plist
+s321078875.087467
+e321078875.120362
+r1
+xProcessInfoPlistFile
+x/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/Info.plist
+xCascadeScrollView-Info.plist
+lSLF07#2@36"Process CascadeScrollView-Info.plist321078875#321078875#0(0"0(0#0#77"/Users/apple/Documents/TestApp/CascadeScrollView/CascadeScrollView-Info.plist32088572552216676#539"    cd /Users/apple/Documents/TestApp/CascadeScrollView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CascadeScrollView-Info.plist -genpkginfo /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app/Info.plist0#
+
+CProcessPCH /var/folders/z+/z+OkvupKGOG2hduLtxDDbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CascadeScrollView_Prefix-dnuqzqrdhrzmzyarmnaydedlyrcc/CascadeScrollView_Prefix.pch.gch CascadeScrollView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321078875.727898
+e321078877.730825
+r1
+xProcessPCH
+x/var/folders/z+/z+OkvupKGOG2hduLtxDDbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CascadeScrollView_Prefix-dnuqzqrdhrzmzyarmnaydedlyrcc/CascadeScrollView_Prefix.pch.gch
+xCascadeScrollView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile CascadeScrollView_Prefix.pch321078875#321078877#0(0"0(0#0#77"/Users/apple/Documents/TestApp/CascadeScrollView/CascadeScrollView_Prefix.pch8653039392#2096"    cd /Users/apple/Documents/TestApp/CascadeScrollView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-generated-files.hmap -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-own-target-headers.hmap -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-all-target-headers.hmap -iquote /Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/CascadeScrollView-project-headers.hmap -F/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator -I/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/include -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/DerivedSources/i386 -I/Users/apple/Documents/TestApp/CascadeScrollView/build/CascadeScrollView.build/Debug-iphonesimulator/CascadeScrollView.build/DerivedSources -c /Users/apple/Documents/TestApp/CascadeScrollView/CascadeScrollView_Prefix.pch -o /var/folders/z+/z+OkvupKGOG2hduLtxDDbE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CascadeScrollView_Prefix-dnuqzqrdhrzmzyarmnaydedlyrcc/CascadeScrollView_Prefix.pch.gch0#
+
+CTouch /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app
+s321079943.601981
+e321079943.604779
+r1
+xTouch
+x/Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app
+lSLF07#2@104"Touch /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app321079943#321079943#0(0"0(0#0#0"8641157120#308"    cd /Users/apple/Documents/TestApp/CascadeScrollView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/apple/Documents/TestApp/CascadeScrollView/build/Debug-iphonesimulator/CascadeScrollView.app0#
+
